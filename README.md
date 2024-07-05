@@ -1,3 +1,2 @@
 # taskstream
-Distributed Task Scheduler and Job Queue
-hello: this is just for testing 
+This is "taskstream" a custom Distributed Task Scheduler and Job Queue manager
