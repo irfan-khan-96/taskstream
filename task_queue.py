@@ -1,5 +1,6 @@
 import redis
 
+# TaskQueue class to add and get tasks from the queue
 class TaskQueue:
     def __init__(self, queue_name='task_queue'):
         self.queue_name = queue_name
