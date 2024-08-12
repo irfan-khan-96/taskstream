@@ -1,3 +1,4 @@
+#The redis server using the command: redis-server
 import redis
 
 # TaskQueue class to add and get tasks from the queue
